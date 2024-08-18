@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 // checking the CI/CD pipeline
 
+//cheking now when there is no error
+
 void main() {
   runApp(const MyApp());
 }
@@ -14,7 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
-      theme: ThemeData(ssssssssssssss
+      theme: ThemeData(
         // This is the theme of your application.
         //
         // TRY THIS: Try running your application with "flutter run". You'll see
