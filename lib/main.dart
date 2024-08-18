@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 // checking the CI/CD pipeline
 
-// cheking now when there is no error -v6
 
 void main() {
   runApp(const MyApp());
