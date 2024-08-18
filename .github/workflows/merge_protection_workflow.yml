@@ -12,7 +12,7 @@ on:
 jobs:
   # Run tests - Jobs
   test:
-    name: Run Tests
+    name: Run Tests Merge Protection
     runs-on: ubuntu-latest
 
     steps:
